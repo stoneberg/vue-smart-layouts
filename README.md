@@ -1,4 +1,4 @@
-# vue-layouts
+# vue3 smart-layouts test
 
 ## Following this article https://itnext.io/vue-tricks-smart-layouts-for-vuejs-5c61a472b69b
 
